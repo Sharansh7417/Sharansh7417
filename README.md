@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharansh7417
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning javascript.
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning ML.
 
 
 <!---
